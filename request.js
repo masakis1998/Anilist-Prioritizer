@@ -1,4 +1,4 @@
-var username = "velvetPhos";
+var username = "";
 
 var tagList = ["Amnesia"
       ,"Anti-Hero"
